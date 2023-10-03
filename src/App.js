@@ -14,7 +14,7 @@ function App() {
   let users =
     [
       { name: 'Hrishav', mobile: '7098', pata: 'Hastinapur' },
-      { name: 'trishu', mobile: '8902', pata: 'Doulatpur' },
+      { name: 'crush', mobile: '8902', pata: 'Doulatpur' },
       { name: 'kalu', mobile: '9981', pata: 'Kalupur' },
     ]
   const [data, setData] = useState(null)
